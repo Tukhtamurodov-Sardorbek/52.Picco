@@ -4,19 +4,21 @@
 suitable home/accommodation for them to buy or rent and a 
 vice versa to sell or rent
 
+|----------------|:----------------:|:----------------:|:----------------:|
+| ![View](assets/readme/1.jpg) | ![View](assets/readme/2.jpg) | ![View](assets/readme/3.jpg) | ![View](assets/readme/4.jpg) |
 
-| Home Page | Create Note Page | Detail Page |
-|----------------|:----------------:|:----------------:|
-| ![Home](assets/readme/1.jpg) | ![Create](assets/readme/2.jpg) | ![Detail](assets/readme/detail_page.png) |
 
-| Create Note | Grid View | Grid View |
-|----------------|:----------------:|:----------------:|
-| ![Create](assets/readme/3.jpg) | ![Grid](assets/readme/4.jpg) | ![Create](assets/readme/5.jpg) |
+|----------------|:----------------:|:----------------:|:----------------:|
+| ![View](assets/readme/5.jpg) | ![View](assets/readme/6.jpg) | ![View](assets/readme/7.jpg) | ![View](assets/readme/8.jpg) |
 
-| List View | List View | Order by importance in descending order |
-|----------------|:----------------:|:----------------:|
-| ![Create](assets/readme/6.jpg) | ![Grid](assets/readme/7.jpg) | ![Sort](assets/readme/8.jpg) |
 
-| Order by importance in ascending order | Order by time in ascending order |  Order by time in descending order |
-|----------------|:----------------:|:----------------:|
-| ![Sort](assets/readme/9.jpg) | ![Grid](assets/readme/10.jpg) | ![Sort](assets/readme/11.jpg) |
+|----------------|:----------------:|:----------------:|:----------------:|
+| ![View](assets/readme/9.jpg) | ![View](assets/readme/10.jpg) | ![View](assets/readme/11.jpg) | ![View](assets/readme/12.jpg) |
+
+
+|----------------|:----------------:|:----------------:|:----------------:|
+| ![View](assets/readme/13.jpg) | ![View](assets/readme/14.jpg) | ![View](assets/readme/15.jpg) | ![View](assets/readme/16.jpg) |
+
+
+|----------------|:----------------:|:----------------:|:----------------:|
+| ![View](assets/readme/17.jpg) | ![View](assets/readme/18.jpg) | ![View](assets/readme/19.jpg) | ![View](assets/readme/20.jpg) |
