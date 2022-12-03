@@ -5,6 +5,7 @@ suitable home/accommodation for them to buy or rent and a
 vice versa to sell or rent
 
 
+
 | Customer View | Customer View | Customer View | Customer View |
 |----------------|:----------------:|:----------------:|:----------------:|
 | ![View](assets/readme/1.jpg) | ![View](assets/readme/2.jpg) | ![View](assets/readme/3.jpg) | ![View](assets/readme/4.jpg) |
